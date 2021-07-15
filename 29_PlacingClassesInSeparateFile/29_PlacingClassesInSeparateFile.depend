@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626071664 source:d:\2021\c++\29_placingclassesinseparatefile\main.cpp
+	<iostream>
+	<string>
+	"Books.h"
+
+1626069697 d:\2021\c++\29_placingclassesinseparatefile\books.h
+	<iostream>
+	<string>
+
+1626069931 source:d:\2021\c++\29_placingclassesinseparatefile\books.cpp
+	"Books.h"
+
